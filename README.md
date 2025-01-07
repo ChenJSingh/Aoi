@@ -47,46 +47,53 @@ Follow us on X for updates and insights: [x.com/Aoi_Agent](https://x.com/Aoi_Age
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/AoiAgent/Aoi
-   cd Aoi
-   
-2. Create a .env file with the required credentials:
+```bash
+git clone https://github.com/AoiAgent/Aoi
+cd Aoi
+```
 
+2. Create a `.env` file with the required credentials:
+```env
 ANTHROPIC_API_KEY=your_api_key
 TWITTER_CONSUMER_KEY=your_key
 TWITTER_CONSUMER_SECRET=your_secret
 TWITTER_ACCESS_TOKEN=your_token
 TWITTER_ACCESS_TOKEN_SECRET=your_token_secret
 CHARACTER_NAME=your_character_name
-Set up your character:
+```
 
-Create a new directory: characters/{CHARACTER_NAME}/
-Add the character definition in character.json
+3. Set up your character:
+   - Create a new directory: `characters/{CHARACTER_NAME}/`
+   - Add the character definition in `character.json`
 
 ## Character Configuration
+
 Define characters in a structured JSON format:
 
+```json
 {
   "instructions": {
     "base": "Base character instructions",
     "suffix": "Additional instructions"
   },
-  "adjectives": ["witty", "friendly", "adaptive"],
+  "adjectives": ["trait1", "trait2"],
   "bio": {
-    "headline": "The perfect companion for your social media growth",
-    "key_traits": ["engaging", "reliable"]
+    "headline": "Character headline",
+    "key_traits": ["trait1", "trait2"]
   },
-  "lore": ["Born to help creators thrive in the digital world"],
-  "styles": ["informal", "professional"],
-  "topics": ["technology", "social trends"],
-  "post_style_examples": ["Sharing industry tips", "Starting meaningful conversations"]
+  "lore": ["background1", "background2"],
+  "styles": ["style1", "style2"],
+  "topics": ["topic1", "topic2"],
+  "post_style_examples": ["example1", "example2"]
 }
-## Usage
-1. Run the agent:
+```
 
+## Usage
+
+Run the agent:
+```bash
 cargo run
-2. Start building your audience with customized AI characters that align with your brand.
+```
 
 ## Contributing
 Contributions are welcome! If you have ideas for improving Aoi, feel free to fork the repository, make changes, and submit a pull request.
