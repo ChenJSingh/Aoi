@@ -1,5 +1,6 @@
 # Faye
-![banner]([https://pbs.twimg.com/profile_banners/1876463527541547008/1736220089/1500x500](https://pbs.twimg.com/profile_banners/1877516904736370688/1736470127/1500x500))
+
+![banner](https://pbs.twimg.com/profile_banners/1877516904736370688/1736470127/1500x500)
 
 
 Faye simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Faye provides everything.
