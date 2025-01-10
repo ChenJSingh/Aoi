@@ -1,11 +1,10 @@
-# Aoi
+# Faye
+![banner]([https://pbs.twimg.com/profile_banners/1876463527541547008/1736220089/1500x500](https://pbs.twimg.com/profile_banners/1877516904736370688/1736470127/1500x500))
 
-![banner](https://pbs.twimg.com/profile_banners/1876463527541547008/1736220089/1500x500)
 
+Faye simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Faye provides everything.
 
-Aoi simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Aoi provides everything you need to succeed.
-
-Follow us on X for updates and insights: [x.com/Aoi_Agent](https://x.com/Aoi_Agent)
+Follow us on X for updates and insights: [x.com/FayeAgents](https://x.com/FayeAgents)
 
 ---
 
@@ -48,8 +47,8 @@ Follow us on X for updates and insights: [x.com/Aoi_Agent](https://x.com/Aoi_Age
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AoiAgent/Aoi
-cd Aoi
+git clone https://github.com/FayeAgentCreation/Faye
+cd Faye
 ```
 
 2. Create a `.env` file with the required credentials:
@@ -96,7 +95,7 @@ cargo run
 ```
 
 ## Contributing
-Contributions are welcome! If you have ideas for improving Aoi, feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! If you have ideas for improving Faye, feel free to fork the repository, make changes, and submit a pull request.
 
 License
-This project is licensed under the Aoi License. See the LICENSE file for details.
+This project is licensed under the Faye License. See the LICENSE file for details.
