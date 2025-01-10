@@ -58,3 +58,4 @@ if (doesEnvFileExist()) {
 } else {
   handleNewEnv();
 }
+ 
