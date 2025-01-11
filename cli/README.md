@@ -1,6 +1,6 @@
-## Aoi CLI
+## Sora CLI
 
-Aoi CLI is a utility designed to streamline the setup process of your Aoi environment.
+Sora CLI is a utility designed to streamline the setup process of your Aoi environment.
 It uses Inquirer to interactively build up ENV values while also validating they are correct.
 
 This was first created by @JPDucky on GitHub.
