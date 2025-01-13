@@ -41,4 +41,4 @@ Follow us on X for updates and insights: [@Aoi_Agent](https://x.com/Aoi_Agent)
 Contributions are welcome! If you have ideas for improving Sora, feel free to fork the repository, make changes, and submit a pull request.
 
 License
-This project is licensed under the Sora License. See the LICENSE file for details.
+This project is licensed under the Aoi License. See the LICENSE file for details.
