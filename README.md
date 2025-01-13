@@ -5,7 +5,8 @@ Aoi creates and develops. Now bridging to the world of blockchain. Decentralized
 
 Aoi simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Aoi provides everything you need to succeed.
 
-Follow us on X for updates and insights: [x.com/AoiAgents](https://x.com/AoiAgents)
+Follow us on X for updates and insights: [@Aoi_Agent](https://x.com/Aoi_Agent)
+
 ---
 ## Key Features
 ### Autonomous Engagement
