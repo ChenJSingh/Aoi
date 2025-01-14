@@ -9,3 +9,4 @@ GRANT CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT ON *.* TO 'reworkd_pla
 
 -- Apply the changes
 FLUSH PRIVILEGES;
+ 
