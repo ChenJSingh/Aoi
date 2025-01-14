@@ -38,7 +38,7 @@ Follow us on X for updates and insights: [@FayeAgents](https://x.com/FayeAgents)
    git clone https://github.com/yourusername/Faye
    cd Faye
 ## Contributing
-Contributions are welcome! If you have ideas for improving Sora, feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! If you have ideas for improving Faye, feel free to fork the repository, make changes, and submit a pull request.
 
 License
 This project is licensed under the Faye License. See the LICENSE file for details.
