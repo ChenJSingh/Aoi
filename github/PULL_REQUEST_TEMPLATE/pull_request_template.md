@@ -47,7 +47,7 @@ Internal changes:
 - [ ] My change has adequate [Unit Test coverage]({PLACEHOLDER}).
 
 ## Terms
-
+ 
 <!--
 By submitting this pull request, you must agree to follow our
 [contributing guide](https://github.com/reworkd/AgentGPT/tree/main/.github/CONTRIBUTING.md) and
