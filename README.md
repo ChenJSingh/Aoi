@@ -1,6 +1,5 @@
 # Inova
-![banner](https://i.postimg.cc/dtSwrsRG/Untitled-design-1.png)
-
+[![banner](https://i.postimg.cc/SRtXQnrK/Untitled-design-3.png)
 Inova simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Inova provides everything you need to succeed.
 
 Follow us on X for updates and insights: [@InovaFrameworks](https://x.com/InovaFrameWorks)
