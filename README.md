@@ -1,5 +1,5 @@
 # Aoi
-![banner]((https://i.postimg.cc/JzPH24QF/Untitled-design.png))
+![banner](https://i.postimg.cc/JzPH24QF/Untitled-design.png)
 
 Aoi simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Aoi provides everything you need to succeed.
 
