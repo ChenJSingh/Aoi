@@ -1,9 +1,9 @@
-# Aoi
-![banner](https://i.postimg.cc/JzPH24QF/Untitled-design.png)
+# Inova
+![banner](https://i.postimg.cc/dtSwrsRG/Untitled-design-1.png)
 
-Aoi simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Aoi provides everything you need to succeed.
+Inova simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Inova provides everything you need to succeed.
 
-Follow us on X for updates and insights: [@Aoi_Agent](https://x.com/Aoi_Agent)
+Follow us on X for updates and insights: [@InovaFrameworks](https://x.com/InovaFrameWorks)
 
 ---
 ## Key Features
@@ -35,10 +35,10 @@ Follow us on X for updates and insights: [@Aoi_Agent](https://x.com/Aoi_Agent)
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Aoi
-   cd Aoi
+   git clone https://github.com/yourusername/Inova
+   cd Inova
 ## Contributing
-Contributions are welcome! If you have ideas for improving Aoi, feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! If you have ideas for improving Inova, feel free to fork the repository, make changes, and submit a pull request.
 
 License
-This project is licensed under the Aoi License. See the LICENSE file for details.
+This project is licensed under the Inova License. See the LICENSE file for details.
