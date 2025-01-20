@@ -1,8 +1,8 @@
-# Inova
-![banner](https://i.postimg.cc/SRtXQnrK/Untitled-design-3.png)
-Inova simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Inova provides everything you need to succeed.
+# Aspire
+![banner](https://i.postimg.cc/nr5nzFD3/34534545.png)
+Aspire simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Aspire provides everything you need to succeed.
 
-Follow us on X for updates and insights: [@InovaFrameworks](https://x.com/InovaFrameWorks)
+Follow us on X for updates and insights: [@AspireFramework](https://x.com/AspireFrameWork)
 
 ---
 ## Key Features
@@ -34,10 +34,10 @@ Follow us on X for updates and insights: [@InovaFrameworks](https://x.com/InovaF
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Inova
-   cd Inova
+   git clone https://github.com/yourusername/Aspire
+   cd Aspire
 ## Contributing
-Contributions are welcome! If you have ideas for improving Inova, feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! If you have ideas for improving Aspire, feel free to fork the repository, make changes, and submit a pull request.
 
 License
-This project is licensed under the Inova License. See the LICENSE file for details.
+This project is licensed under the Aspire License. See the LICENSE file for details.
