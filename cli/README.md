@@ -1,6 +1,6 @@
-## Aoi CLI
+## Aspire CLI
 
-Sora CLI is a utility designed to streamline the setup process of your Aoi environment.
+Aspire CLI is a utility designed to streamline the setup process of your Aspire environment.
 It uses Inquirer to interactively build up ENV values while also validating they are correct.
 
 This was first created by @JPDucky on GitHub.
