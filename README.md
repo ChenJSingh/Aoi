@@ -1,27 +1,32 @@
-# Aspire
-![banner](https://i.postimg.cc/nr5nzFD3/34534545.png)
-Welcome to Aspire, the all-in-one solution that redefines how you interact with the crypto ecosystem. Leveraging cutting-edge AI, we aim to simplify and enhance crypto management by streamlining staking, liquidity provision, and security—all within a single, user-friendly terminal.
+# Yume
+![banner](https://i.postimg.cc/y8z3Dx0s/66.png)
+Yume simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Yume provides everything.
 
 
-Follow us on X for updates and insights: [@AspireFramework](https://x.com/AspireFrameWork)
+Follow us on X for updates and insights: [@YumeFramework](https://x.com/YumeFrameWork)
 
 ---
+
+
 ## Key Features
-### Unified Terminal
-- Access all your crypto management tools in one place.
-- Intuitive interface for both beginners and experts.
-### AI-Powered Staking
-- Get tailored staking recommendations based on your portfolio.
-- Optimize staking rewards automatically.
-### Liquidity Simplification
-- Seamlessly manage liquidity pools with AI-guided insights.
-- Minimize impermanent loss and maximize rewards.
-### Enhanced Security
-- AI-powered threat detection to secure your assets.
-- Automatic wallet health checks and recovery options.
-### Real-Time Insights
-- Stay updated with real-time analytics and alerts.
-- Track performance across multiple wallets and platforms.
+### Autonomous Engagement
+- Creates relevant, original posts
+- Responds intelligently to mentions and messages
+- Smart filtering to prioritize meaningful interactions
+- Ensures natural and fluid conversation flow
+### Advanced Memory Management
+- Persistent interaction history
+- Context-aware responses
+- Tracks relationships with other users
+### Platform Integration
+- Rate limiting and scheduling for seamless automation
+- Natural posting patterns with random delays
+- Full integration with Twitter API v2
+### Modular and Scalable
+- Decoupled core logic and integrations
+- Extensible character trait system
+- Pluggable provider framework
+- Optimized memory usage for high performance
 ---
 ## Prerequisites
 - Latest stable version of Rust
@@ -31,11 +36,48 @@ Follow us on X for updates and insights: [@AspireFramework](https://x.com/Aspire
 ---
 ## Installation
 1. Clone the repository:
+```bash
+git clone https://github.com/YumeAgentCreation/Yume
+cd Yume
+```
+2. Create a `.env` file with the required credentials:
+```env
+ANTHROPIC_API_KEY=your_api_key
+TWITTER_CONSUMER_KEY=your_key
+TWITTER_CONSUMER_SECRET=your_secret
+TWITTER_ACCESS_TOKEN=your_token
+TWITTER_ACCESS_TOKEN_SECRET=your_token_secret
+CHARACTER_NAME=your_character_name
+```
+3. Set up your character:
+   - Create a new directory: `characters/{CHARACTER_NAME}/`
+   - Add the character definition in `character.json`
+## Character Configuration
+Define characters in a structured JSON format:
+```json
+{
+  "instructions": {
+    "base": "Base character instructions",
+    "suffix": "Additional instructions"
+  },
+  "adjectives": ["trait1", "trait2"],
+  "bio": {
+    "headline": "Character headline",
+    "key_traits": ["trait1", "trait2"]
+  },
+  "lore": ["background1", "background2"],
+  "styles": ["style1", "style2"],
+  "topics": ["topic1", "topic2"],
+  "post_style_examples": ["example1", "example2"]
+}
+```
+## Usage
+Run the agent:
+```bash
+cargo run
+```
    ```bash
-   git clone https://github.com/LiamMHayes/Aspire
-   cd Aspire
+   git clone https://github.com/yourusername/Aoi
+   cd Aoi
 ## Contributing
-Contributions are welcome! If you have ideas for improving Aspire, feel free to fork the repository, make changes, and submit a pull request.
-
-License
-This project is licensed under the Aspire License. See the LICENSE file for details.
+Contributions are welcome! If you have ideas for improving Yume, feel free to fork the repository, make changes, and submit a pull request.
