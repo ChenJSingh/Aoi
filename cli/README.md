@@ -1,6 +1,6 @@
-## Aspire CLI
+## yumi CLI
 
-Aspire CLI is a utility designed to streamline the setup process of your Aspire environment.
+yumi CLI is a utility designed to streamline the setup process of your yumi environment.
 It uses Inquirer to interactively build up ENV values while also validating they are correct.
 
 This was first created by @JPDucky on GitHub.
