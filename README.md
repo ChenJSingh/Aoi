@@ -1,6 +1,6 @@
 # yume
 ![banner](https://i.postimg.cc/y8z3Dx0s/66.png)
-Yume simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Yume provides everything.
+yume simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, yume provides everything.
 
 
 Follow us on X for updates and insights: [@yumeframework](https://x.com/yumeframeWork)
@@ -80,4 +80,4 @@ cargo run
    git clone https://github.com/yourusername/yume
    cd Aoi
 ## Contributing
-Contributions are welcome! If you have ideas for improving Yume, feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! If you have ideas for improving yume, feel free to fork the repository, make changes, and submit a pull request.
