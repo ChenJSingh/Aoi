@@ -3,7 +3,7 @@
 yume simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, yume provides everything.
 
 
-Follow us on X for updates and insights: [@yumeframework](https://x.com/yumeframeWork)
+Follow us on X for updates and insights: [@YumeFramework](https://x.com/YumeFrameWork)
 
 ---
 
