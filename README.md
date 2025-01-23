@@ -77,7 +77,7 @@ Run the agent:
 cargo run
 ```
    ```bash
-   git clone https://github.com/yourusername/Aoi
+   git clone https://github.com/yourusername/yume
    cd Aoi
 ## Contributing
 Contributions are welcome! If you have ideas for improving Yume, feel free to fork the repository, make changes, and submit a pull request.
