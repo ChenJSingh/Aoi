@@ -24,4 +24,4 @@ To update ENV values:
 
 - Add a question to the list of questions in `index.js` for the ENV value
 - Add a value in the `envDefinition` for the ENV value
-- Add the ENV value to the `.env.example` in the root of the project
+- Add the ENV value to the `.env.example` in the root of the project 
