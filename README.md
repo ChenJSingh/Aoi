@@ -1,9 +1,9 @@
-# Yume
+# yume
 ![banner](https://i.postimg.cc/y8z3Dx0s/66.png)
 Yume simplifies the creation and deployment of intelligent, character-driven social media AI agents. Whether you're automating interactions, growing accounts, or building unique online personas, Yume provides everything.
 
 
-Follow us on X for updates and insights: [@YumeFramework](https://x.com/YumeFrameWork)
+Follow us on X for updates and insights: [@yumeframework](https://x.com/yumeframeWork)
 
 ---
 
