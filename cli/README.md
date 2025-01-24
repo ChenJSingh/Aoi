@@ -1,4 +1,4 @@
-## yumi CLI
+## yume CLI
 
 yumi CLI is a utility designed to streamline the setup process of your yumi environment.
 It uses Inquirer to interactively build up ENV values while also validating they are correct.
